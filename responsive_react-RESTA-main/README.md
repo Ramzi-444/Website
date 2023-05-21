@@ -1,3 +1,13 @@
+This is a responsive react project for a restaurant RESTA The website is created as for desktop as for tablets and smartphone users. 
+
+!!Collaborator: Ramzi-444
+!!You can find the collaborator on https://github.com/Ramzi-444
+
+The react application uses BrowserRouter to navigate through the website and provide users with client-side server. 
+
+REMINDER!
+Due to the large image size and network congestions, some images may load slowly.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
